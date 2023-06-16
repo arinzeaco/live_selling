@@ -1,0 +1,12 @@
+const String BASE_URL = "https://us-central1-inventory-ts-firestore.cloudfunctions.net/api/";
+const String live_show = "Live Show";
+const String post = "Post";
+const String add_inventry = "Add Inventry";
+const String please_enter_a_valid_number = 'Please enter a valid number';
+const String please_enter_a_valid_text= 'Please enter a valid item';
+const String save= 'Save';
+const String list_empty= 'List is empty Add to list';
+const String add_update_item= 'Add/Update Item';
+const String quantity= 'quantity';
+const String item_name= 'item_name';
+const String item_id= 'Item ID';
